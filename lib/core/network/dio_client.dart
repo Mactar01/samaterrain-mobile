@@ -14,7 +14,7 @@ class DioClient {
   // Adresse du serveur (sans /api/v1), aussi utilisée pour les images.
   // Définie dynamiquement par --dart-define=API_URL=...
   // - develop : 'http://127.0.0.1:8000' (téléphone branché en USB + `adb reverse tcp:8000 tcp:8000`)
-  // - preprod : 'https://staging-api.myterrain.sn'
+  // - preprod : 'http://165.232.65.22:8000'
   // - prod    : 'https://api.myterrain.sn'
   static const String _defaultUrl = kReleaseMode
       ? 'https://api.myterrain.sn'
