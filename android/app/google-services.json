@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198540797936",
+    "project_id": "samaterrain-2da58",
+    "storage_bucket": "samaterrain-2da58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198540797936:android:1c2b377690acecda311f35",
+        "android_client_info": {
+          "package_name": "com.example.my_terrain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYlJpgsGE6inFNDJYcTfXnQRuB-VZ5z7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
