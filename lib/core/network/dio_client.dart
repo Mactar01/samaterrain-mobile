@@ -17,7 +17,7 @@ class DioClient {
   // - preprod : 'http://165.232.65.22:8000'
   // - prod    : 'https://api.myterrain.sn'
   static const String _defaultUrl = kReleaseMode
-      ? 'https://api.myterrain.sn'
+      ? 'http://165.232.65.22:8000'
       : 'http://127.0.0.1:8000';
 
   static const String serverUrl = String.fromEnvironment(
